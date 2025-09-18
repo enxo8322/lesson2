@@ -18,10 +18,10 @@ body{
 }
 .container{
     background-color: var(--White);
-    width: 555px;
+    width: 610px;
     border-radius: 10px;
     padding-bottom: 200px;
-    padding-right: 60px;
+    padding-right: 65px;
     padding-left: 27px;
     padding-bottom: 10px;
     padding-top: 20px;
@@ -42,7 +42,7 @@ img{
 }
 .container-1{
     background-color: var(--Rose-50);
-    width: 565px;
+    width: 630px;
     padding-left: 19px;
     border-radius: 10px;
 }
@@ -57,7 +57,10 @@ img{
     padding-left: 19px;
 }
 .line{
-    width: 580px;
+    width: 630px;
+}
+.highlight{
+    font-weight: bold;
 }
 
 
