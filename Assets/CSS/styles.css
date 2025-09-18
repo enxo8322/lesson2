@@ -9,6 +9,8 @@
     --Rose-800: hsl(332, 51%, 32%);
     --Rose-50: hsl(330, 100%, 98%);
 }
+
+
 body{
     background-color: var(--Stone-100);
     display: flex;
@@ -50,6 +52,15 @@ img{
     font-weight: 300px;
     font-size: 15px;
 }
+.ingre{
+    color: var(--Brown-800);
+    padding-left: 19px;
+}
+.line{
+    width: 580px;
+}
+
+
 
 li{
     margin-top: 5px;
