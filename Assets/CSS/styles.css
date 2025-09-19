@@ -15,15 +15,18 @@ body{
     background-color: var(--Stone-100);
     display: flex;
     justify-content: center;
+    padding-bottom: ;
 }
 .container{
     background-color: var(--White);
-    width: 610px;
+    
+    color: var(--Stone-600);
+    width: 620px;
     border-radius: 10px;
-    padding-bottom: 200px;
-    padding-right: 65px;
+    padding-bottom: 250px;
+    padding-right: 55px;
     padding-left: 27px;
-    padding-bottom: 10px;
+    padding-bottom: 25px;
     padding-top: 20px;
     display: flex;
     flex-direction: column;
@@ -37,6 +40,7 @@ img{
     font-size: 16px;
     line-height: 1.3;
     margin-top: 20px;
+    font-family: "Outfit", sans-serif;
     /* max-width: 500px; */
     text-wrap: wrap;
 }
@@ -45,7 +49,41 @@ img{
     width: 630px;
     padding-left: 19px;
     border-radius: 10px;
+    font-family: "Outfit", sans-serif;
 }
+.container-2{
+    font-family: "Outfit", sans-serif;
+}
+.container-3{
+    font-family: "Outfit", sans-serif;
+}
+.nutrition{
+    margin-top: 20px;
+    font-family: "Outfit", sans-serif;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+}
+ol{
+}
+ 
+
+/* .Nutrition{
+    width: 100%;
+}
+.Nutrition td{
+    padding: 12px 0;
+
+}
+.Nutrition tr:not(:last-child) td{
+    border-bottom: 1px solid #e6e6e6;
+}
+.Nutrition td:last-child{
+    font-weight: 700;
+    color: #6b3a2f;
+    text-align: left;
+} */
 .nice{
     color: var(--Rose-800);
     margin-left: 19px;
@@ -54,18 +92,49 @@ img{
 }
 .ingre{
     color: var(--Brown-800);
+    width: 10px;
     padding-left: 19px;
+    font-family: "Young Serif", serif;
+    font-weight: normal;
 }
-.line{
+.mumu{
+    font-family: "Young Serif", serif;
+    color: var(--Stone-900);
+    font-weight: normal;
+}
+ol{
+    font-family: "Outfit" serif;
+}
+        
+                    
+                
+hr{
     width: 630px;
+    font-weight: lighter;
 }
+strong{
+    margin-right: 200px;
+    color: var(--Brown-800);
+}
+
+.yh{
+    margin-left: 15px;
+}
+
+
 .highlight{
     font-weight: bold;
+    color: var(--Stone-600);
 }
+.we-good{
+    margin-left: 15px;
+    font-family: "Outfit", sans-serif;
+}
+
 
 
 
 li{
-    margin-top: 5px;
+    margin-top: 5px
 }
 
